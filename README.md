@@ -214,9 +214,6 @@ Studied the impact of Claude AI on engineering students' communication skills th
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=fahadalabdli155-tech&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=c9d1d9" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahadalabdli155-tech&layout=compact&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" />
-
 <img src="https://streak-stats.demolab.com?user=fahadalabdli155-tech&hide_border=true&background=0d1117&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff&stroke=312e81" />
 
 </div>
@@ -231,6 +228,20 @@ Studied the impact of Claude AI on engineering students' communication skills th
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fahadalabdli155-tech/fahadalabdli155-tech/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fahadalabdli155-tech/fahadalabdli155-tech/output/github-snake.svg" />
   <img alt="Contribution snake" src="https://raw.githubusercontent.com/fahadalabdli155-tech/fahadalabdli155-tech/output/github-snake-dark.svg" />
+</picture>
+
+</div>
+
+---
+
+## Claude Code Activity
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/claude-usage-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/claude-usage.svg" />
+  <img alt="Claude Code activity" src="./assets/claude-usage-dark.svg" />
 </picture>
 
 </div>
