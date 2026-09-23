@@ -223,26 +223,6 @@ Studied the impact of Claude AI on engineering students' communication skills th
 
 ---
 
-## GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=fahadalabdli155-tech&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&row=1&column=6" />
-
-</div>
-
----
-
-## Contribution Activity
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=fahadalabdli155-tech&bg_color=0d1117&color=a78bfa&line=7c3aed&point=c4b5fd&area=true&area_color=7c3aed&hide_border=true" />
-
-</div>
-
----
-
 ## Contribution Snake
 
 <div align="center">
